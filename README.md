@@ -1,3 +1,6 @@
+App fetches data from filltext.com and displays it as a table. User is asked to choose 2 options of data items quantity: small amount(32 rows in table) and large amount(1000 rows in table). After table is displayed, it can be filtered by ascending and descending and sorted by first name, last name and email values. The clicked item would be displayed in details below the table. If large amount of data selected the pagination also appears at the bottom of the table.
+This app uses lodash and bootstrap. Use yarn install to install all dependencies.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
