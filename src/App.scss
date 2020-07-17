@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  width: 100%;
+}
+
+th, td {
+  border: 2px solid #eee;
+  border-collapse: collapse;
+}
+
+textarea {
+  width: 400px;
+  height: 150px;
+  resize: none !important;
+}
